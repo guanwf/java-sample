@@ -21,8 +21,9 @@ public class Main {
         Thread.sleep(3 * 1000);
 
         service.execute(consumer1);
-        service.execute(consumer1);
-        service.execute(consumer1);
+//        service.execute(consumer1);
+//        service.execute(consumer1);
+//        service.execute(consumer1);
 
         //service.execute(consumer1);
 
